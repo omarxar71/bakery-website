@@ -1,0 +1,24 @@
+/* small */
+@media (max-width:640px) {
+    .our-baking .container .items{
+        flex-direction: column;
+    }
+}
+/* md */
+@media (max-width:786px) {
+    .our-baking .container .items{
+        flex-direction: column;
+    }
+}
+/* lg */
+@media (min-width:1024px) {
+
+}
+/* xl */
+@media (min-width:1280px) {
+
+}
+/* xxl */
+@media (min-width:1536px) {
+
+}
